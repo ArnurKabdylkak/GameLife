@@ -77,10 +77,10 @@ namespace GameLife
         {
             var menu = new MenuStrip();
 
-            var restart = new ToolStripMenuItem("Начать заного");
+            var restart = new ToolStripMenuItem("Run again");
             restart.Click += new EventHandler(Restart);
 
-            var play = new ToolStripMenuItem("Начать симуляцию");
+            var play = new ToolStripMenuItem("Run simulation");
             play.Click += new EventHandler(Play);
 
             menu.Items.Add(play);
@@ -111,7 +111,7 @@ namespace GameLife
             if (CheckGenerationDead())
             {
                 mainTimer.Stop();
-                MessageBox.Show("Поколение себя изжило :(");
+                MessageBox.Show("Generate was dead :(");
             }
         }
 

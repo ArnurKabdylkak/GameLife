@@ -1,0 +1,10 @@
+D:\gamelife\GameLife\bin\Debug\GameLife.exe.config
+D:\gamelife\GameLife\bin\Debug\GameLife.exe
+D:\gamelife\GameLife\bin\Debug\GameLife.pdb
+D:\gamelife\GameLife\obj\Debug\GameLife.csproj.AssemblyReference.cache
+D:\gamelife\GameLife\obj\Debug\GameLife.Form1.resources
+D:\gamelife\GameLife\obj\Debug\GameLife.Properties.Resources.resources
+D:\gamelife\GameLife\obj\Debug\GameLife.csproj.GenerateResource.cache
+D:\gamelife\GameLife\obj\Debug\GameLife.csproj.CoreCompileInputs.cache
+D:\gamelife\GameLife\obj\Debug\GameLife.exe
+D:\gamelife\GameLife\obj\Debug\GameLife.pdb
